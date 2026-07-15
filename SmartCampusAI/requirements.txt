@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+bcrypt
+pandas
+numpy
+requests
+streamlit-option-menu
+streamlit-extras
+plotly
+openai
+Pillow
